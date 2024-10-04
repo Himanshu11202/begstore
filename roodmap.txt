@@ -1,0 +1,21 @@
+
+
+-----usermodel-----
+full name - string
+email - string
+password - string
+cart - array
+isadmin - boolean
+orders - array
+contect - number
+picture - db
+
+
+-----prouct ---- 
+ image
+ name
+ price
+ discount  
+ bg color
+ textcolor
+ penal color
